@@ -1,6 +1,4 @@
-function nomeDeVolta(){
-    console.log("Marvin")
- return "androide paranoide"
- 
+function nomes(nome1, nome2){
+    return (nome1 + " e " + nome2)
 }
 

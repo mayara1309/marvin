@@ -1,4 +1,4 @@
 function nomeDeVolta(){
-    return " o andróide paranóide "
+    return "O andróide paranóidde"
 }
 

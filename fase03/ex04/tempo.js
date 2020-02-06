@@ -6,9 +6,9 @@ case "dia":
 var dia = Math.abs(dataIni.getTime()-
 dataFim.getTime())/1000/60/60/24;
 return Math.round(dia);
-case "mês": 
+case "mÃªs": 
     var mes = Math.abs(dataIni.getTime()-
-    dataFim.gatTime())/1000/60/60/24/30;
+ dataFim.getTime())/1000/60/60/24/30;
     return Math.round(mes);
     default:
     var periodo = Math.abs(dataIni.getTime()-

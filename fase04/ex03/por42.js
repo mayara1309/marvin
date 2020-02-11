@@ -10,7 +10,7 @@ function por42(num1,num2){
 
         if(!resultado) {
             return false 
-            console.log("nao encontrado")
+            console.log("Nao encontrado")
         }
 }
 

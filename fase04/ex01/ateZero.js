@@ -1,5 +1,5 @@
 function ateZero(num1) {
-    var n = 0;
+    var n = 0
     if (num1 > 0){ 
       while(n <= num1){
         console.log(n);
@@ -7,7 +7,7 @@ function ateZero(num1) {
       if (num1<=0){
           while (n>=num1){
               console.log(num1);
-              num++;
+              num1++;
           }
       }
     }

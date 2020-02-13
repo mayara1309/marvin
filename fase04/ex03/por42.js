@@ -1,6 +1,6 @@
 function por42 (num1,num2) {
     var res = null;
-    var cont = 8;
+    var cont = 0;
    while (num1 <= num2){
         if (num1 % 42 === 0) {
            cont = cont + 1;

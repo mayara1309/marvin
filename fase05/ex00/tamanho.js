@@ -1,4 +1,5 @@
-function tamanho (array) {
- var gato = array;
-console.log(gato.length);
+function penultimo (array) {
+    return array.slice(-2,-1).shift();
+    
+
 }
